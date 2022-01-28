@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier -w ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ory/keto-node-express-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ory/keto-node-express-example/issues"
+  },
+  "homepage": "https://github.com/ory/keto-node-express-example#readme",
+  "devDependencies": {
+    "ory-prettier-styles": "^1.1.2",
+    "prettier": "^2.5.1"
+  },
+  "prettier": "ory-prettier-styles"
+}
