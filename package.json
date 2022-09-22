@@ -7,14 +7,10 @@
     "type": "git",
     "url": "git+https://github.com/ory/keto-node-express-example.git"
   },
-  "scripts": {
-    "format": "prettier -w .",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "prettier": "ory-prettier-styles",
   "devDependencies": {
     "ory-prettier-styles": "1.3.0",
-    "prettier": "^2.7.1",
+    "prettier": "2.7.1",
     "prettier-plugin-packagejson": "^2.2.18"
   }
 }
