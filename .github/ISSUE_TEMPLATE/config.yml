@@ -1,7 +1,10 @@
+# AUTO-GENERATED, DO NOT EDIT!
+# Please edit the original at https://github.com/ory/meta/blob/master/templates/repository/common/.github/ISSUE_TEMPLATE/config.yml
+
 blank_issues_enabled: false
 contact_links:
-  - name: Ory $PROJECT Forum
-    url: https://github.com/$REPOSITORY/discussions
+  - name: Ory keto-node-express-example Forum
+    url: https://github.com/orgs/ory/discussions
     about:
       Please ask and answer questions here, show your implementations and
       discuss ideas.
